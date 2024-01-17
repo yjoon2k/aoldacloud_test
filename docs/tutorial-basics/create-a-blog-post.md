@@ -16,7 +16,7 @@ slug: greetings
 title: Greetings!
 authors:
   - name: Joel Marcey
-    title: Co-creator of Docusaurus 1
+    title: Co-creator of Docusaurus hello
     url: https://github.com/JoelMarcey
     image_url: https://github.com/JoelMarcey.png
   - name: Sébastien Lorber
